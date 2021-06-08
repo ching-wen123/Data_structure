@@ -9,7 +9,7 @@
 
 # 作業呈現 
 - HW1:Quick_Sort
-  - [Quick_Sort流程圖](https://github.com/ching-wen123/ching-wen/blob/master/HW1/quick_sort%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+  - [Quick_Sort流程圖](https://github.com/ching-wen123/Data_structure/blob/main/HW1/quick_sort流程圖.png)
   - [Quick_Sort程式設計與說明](https://github.com/ching-wen123/ching-wen/blob/master/HW1/quick_sort.py)
   
 - HW2:Heap_Sort & Merge_Sort
