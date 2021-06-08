@@ -14,9 +14,9 @@
   
 - HW2:Heap_Sort & Merge_Sort
   - [Merge_Sort學習歷程與流程圖](https://github.com/ching-wen123/Data_structure/blob/main/HW2/Mergesort%20學習歷程%26流程圖.ipynb)
-  - [Merge_Sort程式設計與說明](https://github.com/ching-wen123/ching-wen/blob/main/HW2/merge_sort_06170139.py)
-  - [Heap_Sort學習歷程與流程圖](https://github.com/ching-wen123/Data_structure/blob/main/HW2/heap-sort%20學習歷程%26流程圖.ipynb)
-  - [Heap_Sort程式設計與說明](https://github.com/ching-wen123/ching-wen/blob/main/HW2/heap_sort_06170139.py)
+  - [Merge_Sort程式設計與說明](https://github.com/ching-wen123/Data_structure/blob/main/HW2/merge_sort_06170139.py)
+  - [Heap_Sort學習歷程與流程圖](https://github.com/ching-wen123/Data_structure/blob/main/HW2/heap_sort%20學習歷程%26流程圖.ipynb)
+  - [Heap_Sort程式設計與說明](https://github.com/ching-wen123/Data_structure/blob/main/HW2/heap_sort_06170139.py)
   
 - HW3:Binary_search_tree
   - [Binary_search_tree學習歷程與流程圖](https://github.com/ching-wen123/ching-wen/blob/master/HW3/B.S.T%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
